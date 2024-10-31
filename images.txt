@@ -6,5 +6,10 @@ nginx
 #--platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 nginx
 --platform=linux/arm64 httpd
+--platform=linux/arm64 busybox
+--platform=linux/arm64 alpine
+--platform=linux/arm64 redis
+--platform=linux/arm64 memcached
+
 
 
